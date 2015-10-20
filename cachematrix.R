@@ -1,3 +1,7 @@
+#I have read https://asitarrives.wordpress.com/2014/10/18/understanding-lexical-scoping-in-r-great-guidance-for-community-ta-in-coursera/
+#which helped me understand the mean example in the assignment instructions.  However the functions I have written for assessment are my
+#work only
+
 #makeCacheMatrix() is a function that expects a matrix as its sole argument
 #It might make sense to include some validation checks because for cacheSolve to work
 #this argument needs to be an invertible matrix.  We could simply test that the 
